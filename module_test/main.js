@@ -1,4 +1,4 @@
-//モジュール
+//モジュール化
 const itemModule = require('./items')
 const controlModule = require('./control')
 
